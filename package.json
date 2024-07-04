@@ -1,0 +1,15 @@
+{
+  "name": "ApifyTask",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "ts-node test.ts"
+  },
+  "dependencies": {
+    "@types/node": "^20.14.9",
+    "axios": "^1.7.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.3"
+  }
+}
